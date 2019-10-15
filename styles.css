@@ -1,0 +1,104 @@
+.Menus{
+    box-shadow: 1px 2px 3px rgb(15, 96, 143);
+    background-color: rgb(20, 153, 230);
+    color: white;
+    /*border:;*/
+}
+
+.BtnMenu{
+    color: white;
+}
+
+
+.img1{
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255,1)), url(https://qlaims.com/wp-content/uploads/2017/10/drone-header.jpg);
+}
+.carousel-item{
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+    height: 300px;
+    width: 100%;
+} 
+
+.PostBorders{
+    border-radius: 1px;
+    background-color: rgb(20, 153, 230);
+    color: white;
+    padding: 8px;
+    font-size: 18px;
+}
+
+.PostBody{
+    background-color: white;
+    color: black;
+    margin: 10px;
+    padding: 30px;
+    font-size: 15px;
+}
+
+.PostLayout{
+    -moz-box-shadow: 0 0 10px rgb(70, 74, 77);
+    -webkit-box-shadow: 0 0 10px rgb(70, 74, 77);
+    box-shadow: 0 0 10px rgb(70, 74, 77);
+    border: 3px solid rgb(20, 153, 230);
+    margin-bottom: 15px;
+}
+
+.FormBox{
+    margin-right: 25%;
+    margin-left: 25%;
+    padding: 10px;
+    border-radius: 3px;
+    border: 3px solid rgb(20, 153, 230);
+}
+
+input{
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0px 22px 0px;
+    display: inline-block;
+    font-size:15px;
+    border:solid 1px #aacfe4;
+}
+
+.OkRegisterBtn:hover {
+    opacity: 1;
+}
+
+.ClearRegisterBtn:hover {
+    opacity: 1;
+}
+
+.BarBtn {
+    color: white;
+    cursor: pointer;
+    border: 0px;
+    width: 120px;
+    opacity: 0.9;
+    height: 100%;
+}
+
+.OkRegisterBtn {
+    background-color: rgb(44, 182, 48);
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 120px;
+    border-radius: 3px;
+    opacity: 0.9;
+}
+
+.ClearRegisterBtn {
+    background-color: rgb(236, 55, 42);
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 120px;
+    border-radius: 3px;
+    opacity: 0.9;
+}
+  
